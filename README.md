@@ -4,16 +4,16 @@ Pre-built wheels for the LIT Platform. Install via pip:
 
 ```bash
 # Linux (Python 3.12)
-pip install https://github.com/Positronic-AI/lit-releases/releases/download/v2.2.4/positronic_lit-2.2.4-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+pip install https://github.com/Positronic-AI/lit-releases/releases/download/v2.4.1/positronic_lit-2.4.1-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
 
 # macOS Apple Silicon (Python 3.12)
-pip install https://github.com/Positronic-AI/lit-releases/releases/download/v2.2.4/positronic_lit-2.2.4-cp312-cp312-macosx_11_0_arm64.whl
+pip install https://github.com/Positronic-AI/lit-releases/releases/download/v2.4.1/positronic_lit-2.4.1-cp312-cp312-macosx_11_0_arm64.whl
 
 # macOS Intel (Python 3.12)
-pip install https://github.com/Positronic-AI/lit-releases/releases/download/v2.2.4/positronic_lit-2.2.4-cp312-cp312-macosx_10_13_x86_64.whl
+pip install https://github.com/Positronic-AI/lit-releases/releases/download/v2.4.1/positronic_lit-2.4.1-cp312-cp312-macosx_10_13_x86_64.whl
 
 # Windows (Python 3.12)
-pip install https://github.com/Positronic-AI/lit-releases/releases/download/v2.2.4/positronic_lit-2.2.4-cp312-cp312-win_amd64.whl
+pip install https://github.com/Positronic-AI/lit-releases/releases/download/v2.4.1/positronic_lit-2.4.1-cp312-cp312-win_amd64.whl
 ```
 
 Replace `cp312` with your Python version (`cp310`, `cp311`, `cp312`, `cp313`).
